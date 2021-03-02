@@ -39,7 +39,7 @@ CREATE TABLE `login` (
 --
 
 INSERT INTO `login` (`id`, `firstname`, `lastname`, `email`, `password`) VALUES
-(15, 'hamid', 'shaikh', 'demo@gmail.com', '123456');
+(15, 'assel', 'sultan', 'demo@gmail.com', '123456');
 
 --
 -- Indexes for dumped tables
